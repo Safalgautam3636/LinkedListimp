@@ -1,0 +1,2 @@
+# LinkedListimp
+implementation of LL
