@@ -10,7 +10,10 @@ We use Floyd's Algorithm :
 
 3.if slow==fast then there is a loop
      
-     #Removal of a loop
+     Removal of a loop
      
+     1.After the detection of a loop again initialize one of the two pointers to the head of the linked list.
+     
+     2
      
 
